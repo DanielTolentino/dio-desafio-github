@@ -1,0 +1,5 @@
+Link para download do Git: https://git-scm.com/downloads
+
+Para instalar em distros baseadas em Debian = sudo apt install git -y
+
+
